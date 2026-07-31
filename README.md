@@ -1,0 +1,2 @@
+# SMARTCART-E-Commerce-Customer-Segmentation-K-Means-Agglomerative-Clustering-PCA
+Customer Segmentation project using Python and Scikit-Learn. The project performs data preprocessing, feature engineering, PCA for dimensionality reduction, and customer segmentation using K-Means and Agglomerative Clustering to identify different customer groups based on spending behavior, income, demographics, and purchasing patterns.
